@@ -6,9 +6,7 @@ March 20, 2020*/
 
 
 window.addEventListener('load', function() {
-    //alert('hi');
-    
-    
+       
     
 	//set function to handle a change in selection
 	let mealSelector = document.getElementById('meal');
